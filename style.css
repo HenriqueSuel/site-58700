@@ -1,0 +1,22 @@
+.bg-nav {
+    background-color: #343a40;
+    color: white !important;
+
+}
+
+.nav-link { 
+    color: white !important;
+}
+
+.navbar-brand {
+    color: white !important;
+}
+
+
+.bg-hero {
+    background-color: #e9ecef;
+}
+
+.footer {
+    border-top: 1px solid #e8e9ea;;
+}
